@@ -1,0 +1,7 @@
+.cat{
+    display: none;
+}
+
+.show{
+    display: flex;
+}
